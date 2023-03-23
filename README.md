@@ -4,12 +4,12 @@
 - 🌱 No momento estudando Typescript, ReactJS e NextJS
 - 👤 Pronomes: Ele/Dele
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiocastrofrs&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiocastrofrs&theme=nord)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caiocastrofrs&theme=gruvbox) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caiocastrofrs&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caiocastrofrs&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiocastrofrs&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caiocastrofrs&theme=nord) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caiocastrofrs&theme=nord)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caiocastrofrs&theme=nord)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiocastrofrs&theme=nord)
 
 ## Skills
 
